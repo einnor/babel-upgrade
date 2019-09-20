@@ -40,7 +40,7 @@
     "read-pkg-up": "^5.0.0",
     "semver": "^5.5.0",
     "sort-keys": "^2.0.0",
-    "write": "^1.0.3",
+    "write": "^2.0.0",
     "write-json-file": "^3.1.0",
     "write-pkg": "^3.1.0"
   },
