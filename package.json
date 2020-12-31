@@ -39,7 +39,7 @@
     "pify": "^4.0.1",
     "read-pkg-up": "^5.0.0",
     "semver": "^5.5.0",
-    "sort-keys": "^2.0.0",
+    "sort-keys": "^4.2.0",
     "write": "^1.0.3",
     "write-json-file": "^3.1.0",
     "write-pkg": "^3.1.0"
